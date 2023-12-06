@@ -1,1 +1,2 @@
 # MovieLens
+In the Capstone course of the HarvardX Professional Certificate in Data Science (PH125.9x), we will explore and visually examine the MovieLens data set of GroupLens Research which features over 10 million film ratings. The objective will be to develop a machine-learning model by creating training and test sets to predict movie ratings on a validation set that achieves a Root Mean Square Error (RMSE).The regularised movie and user effect model will be used that uses regularisation to reduce overfitting and capture individual movie and user biases.
